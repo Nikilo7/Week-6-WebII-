@@ -1,0 +1,6 @@
+com\w4db\w4db\W4dbApplication.class
+com\w4db\w4db\repository\UserRepository.class
+com\w4db\w4db\service\UserService.class
+com\w4db\w4db\config\SecurityConfig.class
+com\w4db\w4db\controller\UserController.class
+com\w4db\w4db\model\User.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.w4db.w4db.W4dbApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.795 s -- in com.w4db.w4db.W4dbApplicationTests
